@@ -1,5 +1,5 @@
 {
-  "name": "vite-template",
+  "name": "vite-template-with-router",
   "private": true,
   "version": "0.0.0",
   "type": "module",
